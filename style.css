@@ -5,14 +5,14 @@
 body {
   font-family: system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
   margin: 0;
-  background: #f5f7fa;
+  background: #9fc6c9;
   color: #222;
 }
 
 header {
   padding: 3rem 1rem;
   text-align: center;
-  background: #ffffff;
+  background: #236a70;
   border-bottom: 1px solid #ddd;
 }
 
@@ -24,10 +24,12 @@ main {
 
 h1 {
   margin-bottom: 0.5rem;
+  color: #ffffff;
 }
 
 h2 {
   margin-bottom: 1rem;
+  color: #ffffff;
 }
 
 .projects {
