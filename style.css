@@ -11,12 +11,13 @@ body {
 
 header {
   padding: 3rem 1rem;
-  text-align: left;
+  text-align: center;
   background: #5A7684;
   border-bottom: 2px solid #ffffff;
 }
 
 header .intro-text {
+  text-align: left;
   max-width: 800px;
   margin: 1rem auto 0 auto;
   color: #ffffff;
