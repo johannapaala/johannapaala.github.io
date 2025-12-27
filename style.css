@@ -11,7 +11,7 @@ body {
 
 header {
   padding: 3rem 1rem;
-  text-align: center;
+  text-align: left;
   background: #5A7684;
   border-bottom: 2px solid #ffffff;
 }
@@ -48,7 +48,7 @@ h2 {
 .skills {
   flex: 1;
   background: #5A7684;
-  padding: 0;
+  padding: 1.5rem;
   border-radius: 8px;
   list-style: none;
 }
